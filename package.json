@@ -1,11 +1,11 @@
 {
-	"name": "reactfolio",
+	"name": "MahmoudSPortfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Mahmoud SAIB",
+		"email": "mud.saib@gmail.com",
+		"url": "https://github.com/Mahmoudsaib"
 	},
 	"license": "MIT",
 	"private": true,
